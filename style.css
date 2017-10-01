@@ -18,16 +18,19 @@ body {
 	background-color: red;
 	cursor: pointer;
 }
+.square:hover {
+	background-color: green;
+}
 .circle {
 	width: 200px;
 	height: 200px;
 	background-color: green;
 	border-radius: 50%;
-
 }
-.square:hover {
-	background-color: green;
-
+.rectangle {
+	width: 200px;
+	height: 400px;
+	background-color: brown;
 }
 h1 {
 	order: 1;
