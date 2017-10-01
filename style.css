@@ -26,6 +26,7 @@ body {
 	height: 200px;
 	background-color: green;
 	border-radius: 50%;
+	cursor: progress;
 }
 .rectangle {
 	width: 200px;
